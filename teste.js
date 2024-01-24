@@ -1,3 +1,3 @@
-let nome = ["Rafael", "Rebeca", "João"];
+let nome = ["Ulskeer", "Rebeca", "João"];
 
 console.log(nome)
