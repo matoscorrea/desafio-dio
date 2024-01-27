@@ -27,6 +27,5 @@ class Heroi {
   }
 }
 
-// Exemplo de uso da classe
 let heroi = new Heroi("Gandalf", 200, "mago");
 heroi.atacar();
