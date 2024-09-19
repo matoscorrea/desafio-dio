@@ -11,19 +11,19 @@ if (xpJogador === 999){
 else if(xpJogador > 1000 && xpJogador <= 2000){
     console.log(`O Herói de nome ${nomeJogador} está no nível de Bronze`)
 }
-else if(xpJogador > 2001 && xpJogador <= 5000){
+else if(xpJogador > 2000 && xpJogador <= 5000){
     console.log(`O Herói de nome ${nomeJogador} está no nível de Prata`)
 }
-else if(xpJogador > 5001 && xpJogador <= 7000){
+else if(xpJogador > 5000 && xpJogador <= 7000){
     console.log(`O Herói de nome ${nomeJogador} está no nível de Ouro`)
 }
-else if (xpJogador > 7001 && xpJogador <= 8000){
+else if (xpJogador > 7000 && xpJogador <= 8000){
     console.log(`O Herói de nome ${nomeJogador} está no nível de Platina`)
 }
-else if (xpJogador > 8001 && xpJogador <= 9000){
+else if (xpJogador > 8000 && xpJogador <= 9000){
     console.log(`O Herói de nome ${nomeJogador} está no nível de Ascendente`)
 }
-else if(xpJogador > 9001 && xpJogador <= 10000){
+else if(xpJogador > 9000 && xpJogador <= 10000){
     console.log(`O Herói de nome ${nomeJogador} está no nível de Imortal`)
 }
 else{
